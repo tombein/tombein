@@ -10,4 +10,4 @@ languages:
 - English 
 - Spanish 
 
-Instagram Profile: tom.bein [Link](https://www.instagram.com/tom_bein/)
+Instagram Profile: tom_bein [Link](https://www.instagram.com/tom_bein/)
